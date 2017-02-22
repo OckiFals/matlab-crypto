@@ -1,4 +1,4 @@
-# java-crypto
+# matlab-crypto
 Implementation of traditional cryptography algorithms written with Matlab.
 
 # Including
